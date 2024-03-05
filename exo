@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Formation GIT</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<link rel="stylesheet" href="style.css">
+
+	</head>
+	
+
+	<body>
+
+		<!-- TITRE -->
+		<div id="top-banner">
+			Bienvenue dans cette formation GIT !
+		</div>
+		
+		<div>
+		    <p>  , pendant l’année
+scolaire, les élèves doivent beaucoup travailler en
+cours et à la maison. C’est la raison pour
+laquelle la jeunesse a besoin de repos.
+ le sport est bien
+amusant mais non pas sans risque. Par
+conséquent, pour ne pas se blesser, il vaut mieux
+passer ses journées en s’allongeant à la plage
+dans le soleil.</P>
+		</div>
+		
+	</body>
+</html>
